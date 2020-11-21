@@ -7,7 +7,7 @@ class Conexao {
                 port=5432
                 dbname=GAS
                 user=postgres
-                password=IPM@1234567');
+                password=preencha aqui');
     }
 
 }
